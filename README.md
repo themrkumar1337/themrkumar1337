@@ -56,13 +56,6 @@
 
 ---
 
-<h2 align="center">Recent Activity</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=themrkumar1337&theme=radical" alt="Activity Graph">
-</p>
-
----
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/janedoe/count.svg" alt="Total Page Visits" />
   <br>
